@@ -1,28 +1,28 @@
 # Interview Responses from Senior Citizens with Memory Loss
 
 ### Participants  
-- **Mary** (Age 72, Retired Teacher): Avid reader, loves classical music, uses technology for communication with family.  
-- **Robert** (Age 78, Former Engineer): Enjoys problem-solving, prefers structured tasks, uses technology for news and hobbies.  
-- **Alice** (Age 69, Former Artist): Creative and spontaneous, loves nostalgic music, uses technology reluctantly.  
+- **Mary** (Age 72, Retired Teacher): uses technology for communication with family.  
+- **Robert** (Age 78, Former Engineer): uses technology for news and hobbies.  
+- **Alice** (Age 69, Former Artist):  uses technology reluctantly.  
 
 ---
 
 ## Background Information
 
 ### How do you currently use technology in your daily life?  
-- **Mary**: "I use my tablet to video chat with my grandkids and read e-books. I also play Sudoku on an app to keep my brain sharp."  
-- **Robert**: "I check the news, stock market updates, and weather on my laptop. I also enjoy using YouTube for DIY tutorials."  
-- **Alice**: "Mostly for texting or calling my friends. Sometimes I’ll use my phone for looking up recipes or art inspiration."
+- **Mary**: "use my tablet to video chat with my grandkids and read e-books also play Sudoku on an app to keep my brain sharp."  
+- **Robert**: "check the news, stock market updates, and weather on my laptop also enjoy using YouTube for DIY tutorials."  
+- **Alice**: "Mostly for texting or calling my friends. Sometimes uses my phone for looking up recipes or art inspiration."
 
 ### How comfortable are you using mobile apps or websites?  
-- **Mary**: "I feel okay with the ones I use regularly, but anything new takes me a while to figure out."  
-- **Robert**: "I’m comfortable with apps that are logical, but I get frustrated when they’re poorly designed."  
-- **Alice**: "I don’t feel comfortable at all. I usually end up asking my daughter for help."
+- **Mary**: "feel okay with the ones I use regularly, but anything new takes me a while to figure out."  
+- **Robert**: "comfortable with apps that are logical, but get frustrated when they’re poorly designed."  
+- **Alice**: " don’t feel comfortable at all. usually end up asking my daughter for help."
 
 ### Do you use any apps or tools to listen to music? If so, which ones?  
-- **Mary**: "Yes, I use Spotify to listen to classical music, but my grandson set it up for me."  
-- **Robert**: "I’ve used YouTube for music videos, but I don’t use any music apps."  
-- **Alice**: "I stick to the radio"
+- **Mary**: "Yes, use Spotify to listen to classical music, but grandson set it up for me."  
+- **Robert**: " used YouTube for music videos, but I don’t use any music apps."  
+- **Alice**: "stick to the radio"
 
 ---
 
@@ -34,24 +34,24 @@
 - **Alice**: "Almost every day. It takes me back to my youth and inspires me creatively."
 
 ### Have you ever had trouble remembering the name of a song, artist, or playlist you wanted to listen to? Can you describe the experience?  
-- **Mary**: "Yes, it’s frustrating because I can hear the tune in my head but can’t put a name to it."  
-- **Robert**: "Not often, but when it happens, I feel like it’s on the tip of my tongue and just won’t come out."  
-- **Alice**: "All the time! I end up feeling embarrassed about forgetting something so simple."
+- **Mary**: "Yes, it’s frustrating because she can hear the tune in her head but can’t put a name to it."  
+- **Robert**: "Not often, but when it happens, feels like it’s on the tip of my tongue and just won’t come out."  
+- **Alice**: "All the time! end up feeling embarrassed about forgetting something so simple."
 
 ### What do you usually do to find a song or artist when you forget the name?  
-- **Mary**: "I ask my grandson or search online using part of the lyrics I remember."  
-- **Robert**: "I try searching on YouTube or checking my browser history."  
-- **Alice**: "I hum it to my daughter, and she usually finds it for me."
+- **Mary**: " ask my grandson or search online using part of the lyrics I remember."  
+- **Robert**: " try searching on YouTube or checking my browser history."  
+- **Alice**: "hum it to my daughter, and she usually finds it for me."
 
 ### Do you use any features in music apps (like playlists, search history, or favorites) to help you remember songs you like?  
-- **Mary**: "Yes, I use favorites to keep track of my favorite pieces of classical music."  
-- **Robert**: "Not really. I prefer to look things up manually every time."  
+- **Mary**: "Yes, use favorites to keep track of my favorite pieces of classical music."  
+- **Robert**: "Not really. prefer to look things up manually every time."  
 - **Alice**: "No, I don’t even know how to use those features."
 
 ### Have you ever stopped using an app or service because it was difficult to find the songs or information you wanted?  
-- **Mary**: "No, but I’ve been tempted to because the menus are sometimes confusing."  
-- **Robert**: "Yes, I stopped using one because it kept recommending things I wasn’t interested in."  
-- **Alice**: "Yes, I stopped using Pandora for a while because it was hard to find my old stations."
+- **Mary**: "No, but have been tempted to because the menus are sometimes confusing."  
+- **Robert**: "Yes, stopped using one because it kept recommending things wasn’t interested in."  
+- **Alice**: "Yes, stopped using Pandora for a while because it was hard to find my old stations."
 
 ---
 
