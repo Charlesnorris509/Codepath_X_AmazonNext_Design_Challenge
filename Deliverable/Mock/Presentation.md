@@ -1,10 +1,10 @@
-Spotify Redesign for Senior Users: Accessibility Initiative
-Overview
+##Spotify Redesign for Senior Users: Accessibility Initiative
+#Overview
 According to 2023 data, users aged 55 and older comprise more than 19% of Spotify's user base. Many of these users experience cognitive and memory-related challenges that affect their ability to fully utilize the platform. This redesign initiative aims to create a more inclusive and accessible experience while maintaining Spotify's core functionality.
-Purpose
+# Purpose 
 The primary goal is to enhance Spotify's accessibility for older users, particularly those with cognitive impairments, by implementing memory-supportive features and improving overall usability.
-Market Impact
 
+#Market Impact
 Over 20% of Spotify users are 55+ years old
 Many experience memory-related challenges affecting app usage
 Addressing accessibility gaps will improve user experience and market presence
@@ -26,7 +26,7 @@ App Comfort Levels:
 
 
 
-Identified Challenges
+#Identified Challenges
 
 Song and artist name recall difficulties
 Current song discovery methods:
@@ -36,7 +36,7 @@ Online searches (33%)
 External help (33%)
 
 
-Limited utilization of advanced features
+#Limited utilization of advanced features
 
 User Preferences
 
