@@ -1,0 +1,21 @@
+﻿Questions for Amazon Designers & Engineers
+
+
+1️. ERD & System Modeling Approach
+* What are the best practices for designing an ERD for a music app with accessibility features?
+* What key entities and relationships should we include to support accessibility ( personalized recommendations, voice commands)?
+2️. Structuring the Database Efficiently
+* How can we design our ERD to efficiently track user preferences and accessibility settings?
+* How can we optimize search functionality for accessibility features like voice-based search and past song recall?
+3. AI Integration & User Interaction Flow
+* How should we structure the ERD to support AI-driven song recommendations?
+* What’s the best way to connect user listening habits with AI-powered accessibility features?
+* Should memory aids ( song recall prompts) be a separate entity, or integrated into existing tables?
+4. UI/UX & Accessibility Considerations
+* How can we best store and manage user accessibility settings (font size, color contrast, voice commands)?
+* What’s an effective way to support dynamic UI modifications (enlarging buttons, simplified search)?
+* How should we plan for future updates and improvements in accessibility features?
+5. Performance & Security Considerations
+* How can we ensure accessibility features don’t slow down the app?
+* What’s the best way to integrate third-party accessibility tools (voice recognition, text-to-speech) in our ERD?
+* What security measures should we implement to protect user data while allowing personalization?
