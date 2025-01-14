@@ -1,9 +1,5 @@
-Our project focuses on Brenda Pope, a 72-year-old retired teacher and avid music lover. Like many seniors, Margaret enjoys using Spotify but faces challenges navigating its complex interface due to cognitive changes and memory issues.
-We identified her problem through user interviews, where seniors shared difficulties recalling song names, creating playlists, and navigating apps with cluttered designs.
+Our project centers around Brenda Pope, a vibrant 72-year-old retired teacher and lifelong music enthusiast. Brenda, like many members of her generation, cherishes the joy of streaming music on Spotify but often encounters challenges due to its intricate interface. Through engaging user interviews, we uncovered common struggles among older adults, such as recalling song names, and navigating cluttered app designs.
 
-To address these challenges, we redesigned Spotify with thoughtful features, including a "Memory Vault" for tagging favorite songs by mood or events, voice recognition, and a "humming" feature to identify songs without precise details.
-Wireframes highlight an accessible interface with larger buttons, uncluttered menus, and mood-based playlists, prioritizing simplicity and usability.
+To address these issues, we reimagined Spotify with inclusive, user-friendly features. The "Memory Vault" allows users to tag favorite songs by mood or events, while voice recognition and a unique "humming" feature enable effortless song discovery without needing precise details. Our wireframes showcase a streamlined interface with larger buttons, and decluttered menus, emphasizing simplicity and accessibility. 
 
-Our design is also 508-compliant, ensuring accessibility for users with varying abilities.
-By incorporating features like voice commands, visual clarity, and intuitive navigation, our solution meets federal accessibility standards while addressing Margaret’s needs.
-This redesign ensures Spotify becomes an inclusive platform that empowers seniors to rediscover their love for music seamlessly.
+Fully 508-compliant, our design ensures inclusivity for users of all abilities. This thoughtful redesign transforms Spotify into a welcoming, empowering platform where Brenda and her peers can rediscover and cherish the music they love.
